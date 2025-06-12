@@ -1,2 +1,4 @@
 # newclone
 for new clone
+.
+.
